@@ -1,0 +1,41 @@
+/* .backimg{
+    height: 10rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://s3-alpha-sig.figma.com/img/07cc/91a0/2d7dfefdef2a26a5e2aae42f44491f3f?Expires=1696809600&Signature=BV9y7tiYFp~PJ0YN8yVMUIbGz7YRwp83GkRjSfwq61-Z3FtARHk7uMniNIWFOKFsDlJi0JLbW2PgU931bzQwm54e7YSg0e8Ai34b9iH33kTs1iDliaAIkuioGhxfK2UG6MpfxSNJHVBVtSdcsKZ6O0nX5XAfhQZFqv6MfzneIiWcCcKevVARS1F44pnsz2YWTQ5F1vGu7LCiv7C1loC5AMa8EZxOf1mqh-PnKU2YdBNuv3Y2kZ4aUnYU4DgmnzcRqwYa4tYeI8oVemYZSIA6WetqjkxUejdtKXaYQYapch79QXglPk79-bCcC~QDi2iQlzuUBZK3A4dxC6BXdKofPw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+} */
+@media screen and (max-width: 665px) and (min-width: 580px) {
+    .backimg{
+        left:26%;
+    }
+}
+@media screen and (max-width: 580px) and (min-width: 550px) {
+    .backimg {
+        left: 24%;
+    }
+}
+@media screen and (max-width: 550px) and (min-width: 500px) {
+    .backimg {
+        left: 22%;
+    }
+}
+@media screen and (max-width: 500px) and (min-width: 450px) {
+    .backimg {
+        left: 15%;
+    }
+}
+@media screen and (max-width: 450px) and (min-width: 425px) {
+    .backimg {
+        left: 13%;
+    }
+}
+@media screen and (max-width: 425px) and (min-width: 400px) {
+    .backimg {
+        left: 10%;
+    }
+}
+@media screen and (max-width: 400px) and (min-width: 0px) {
+    .backimg {
+        left: 0%;
+    }
+}
